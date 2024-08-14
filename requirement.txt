@@ -1,0 +1,7 @@
+python-dotenv
+flask
+flask_cors
+authlib
+requests
+pyjwt
+flask_jwt_extended
