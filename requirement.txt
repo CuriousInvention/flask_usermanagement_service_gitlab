@@ -5,3 +5,4 @@ authlib
 requests
 pyjwt
 flask_jwt_extended
+pymongo

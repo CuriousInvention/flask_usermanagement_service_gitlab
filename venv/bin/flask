@@ -1,4 +1,4 @@
-#!/home/stardust/NIIT-GPS/GENAI/GENAI_Projects/usermanagement_service/venv/bin/python3
+#!/home/stardust/gps/genai/Github/flask_usermanagement_service_gitlab/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
